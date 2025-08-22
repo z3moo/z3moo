@@ -4,7 +4,6 @@
 
 <h2 align="left">👨‍💻 About me</h2>
 
-###
 
 <p align="left">I'm a second-year BSc student at SoICT, Hanoi University of Science and Technology, majoring in Information and Communication Technology. I'm passionate about cybersecurity—especially blue team operations and digital forensics—and eager to explore penetration testing. Currently improving my skills in C, Go and Python, actively participating in CTFs, a proud member of BKSec and involved in the Student Union's Public Relations Department.</p>
 
