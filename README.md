@@ -1,55 +1,54 @@
-<h1 align="center">Hey 👋I'm Quan</h1>
-
-###
-
-<h2 align="left">👨‍💻 About me</h2>
-
-
-<p align="left">I'm a second-year BSc student at SoICT, Hanoi University of Science and Technology, majoring in Information and Communication Technology. I'm passionate about cybersecurity—especially blue team operations and digital forensics - and eager to explore penetration testing. Currently working at VCS as an Incident Response Intern. A proud member of BKSec and involved in the Student Union's Public Relations Department. Improving my skills in C, Go and Python, actively participating in CTFs,  .</p>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-</div>
 
-###
+# Danh Quan (pacho)
 
-<div align="center">
+Cybersecurity student focused on incident response, blue team operations, and digital forensics.
+
+<p>
+  <a href="https://pachoalto.xyz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=111111&logoColor=white&labelColor=&style=flat" height="24" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/danh-quan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=flat" height="24" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/dnhqn.2945/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="24" alt="Facebook" />
   </a>
   <a href="https://discordapp.com/users/495783458854010900" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="24" alt="Discord" />
   </a>
+</p>
+
 </div>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z3moo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z3moo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+[![Hits](https://hits.sh/github.com/z3moo.svg?style=for-the-badge&label=Total%20View&color=2e91ba)]()
+
 </div>
 
-###
+## Introduction
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z3moo/z3moo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z3moo/z3moo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/z3moo/z3moo/output/pacman-contribution-graph.svg">
-</picture>
+Hey, I'm Danh Quan a.k.a pacho.
 
-###
+Portfolio: [pachoalto.xyz](https://pachoalto.xyz)
+
+2nd-year BSc @ SoICT, Hanoi University of Science and Technology.
+
+Majoring in Information and Communication Technology.
+
+Currently working at Viettel Cyber Security as an Incident Response Intern.
+
+Passionate about cybersecurity, blue team operations, and digital forensics, while staying eager to explore penetration testing.
+
+Actively participating in CTFs, a proud member of BKSEC, and head of the Forensics Division.
+
+## Current Focus
+
+- Incident response and security operations
+- Digital forensics and investigation
+- CTFs and hands-on security practice
+- Exploring offensive security with a defensive mindset
+
+---
