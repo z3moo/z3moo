@@ -49,3 +49,18 @@ Actively participating in CTFs, a proud member of BKSEC, and head of the Forensi
 - CTFs and hands-on security practice
 - Exploring offensive security with a defensive mindset
 
+
+## Latest Blog Posts
+
+<!-- BLOG-POSTS:START -->
+| # | Name | Type | Date |
+|---|------|------|------|
+| 1 | [HTB Business CTF 2026: Project Nightfall Forensics Writeups](https://blog.pachoalto.xyz/posts/htb-business-ctf-2026-project-nightfall/) | HTB | 2026-05-24 |
+| 2 | [BKSEC TTV Forensics 2026 Writeups](https://blog.pachoalto.xyz/posts/bksec-ttv-ctf-2026/) | Posts | 2026-03-09 |
+| 3 | [VCS Passport CTF Blue Entrance Exam 2025](https://blog.pachoalto.xyz/posts/vcs-passport-entrance-exam-2025/) | Posts | 2025-12-20 |
+| 4 | [CSCV 2025 Qualifiers: Forensics Challenge Writeup](https://blog.pachoalto.xyz/posts/cscv-2025-forensics-writeup/) | Posts | 2025-10-22 |
+| 5 | [Compromised Ubuntu VMAnalysis](https://blog.pachoalto.xyz/posts/ubuntu-vm-compromise-analysis/) | Posts | 2025-05-29 |
+| 6 | [BYUCTF-2025 Writeups](https://blog.pachoalto.xyz/posts/byuctf-2025-writeups/) | Posts | 2025-05-18 |
+| 7 | [HTB Cyber Apocalypse 2025 Forensics Writeup](https://blog.pachoalto.xyz/posts/htb-cyber-apocalypse-2025/) | HTB | 2025-04-01 |
+| 8 | [BKSEC CTF TTV 2025 Writeups](https://blog.pachoalto.xyz/posts/bksec-ctf-ttv-2025/) | Posts | 2025-03-02 |
+<!-- BLOG-POSTS:END -->

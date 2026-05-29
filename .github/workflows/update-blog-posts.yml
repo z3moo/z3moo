@@ -1,0 +1,39 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - .github/workflows/update-blog-posts.yml
+      - .github/scripts/update_blog_posts.py
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update README
+        run: python .github/scripts/update_blog_posts.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): refresh blog posts table"
+          git push
